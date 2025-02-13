@@ -30,7 +30,7 @@ This repository contains a Python script for sending various control packets to 
 
 ## Usage
 
-1. **Modify the IP Address and Port**: Edit the script to reflect the correct IP address (`172.28.85.248`) and port (`8080`) of your setup.
+1. **Modify the IP Address and Port**: Edit the script to reflect the correct IP address (`your address`) and port (`your port`) of your setup.
 2. **Run the Script**: After modifying the configuration, run the script. You will be prompted to select the desired action:
     - `1`: Unlock the drone
     - `2`: Initiate takeoff
